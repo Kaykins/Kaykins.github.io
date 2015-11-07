@@ -43,21 +43,6 @@ div.question,div.answer,div.category {
 	content: '\f077';
 	}
 
-#toTop {
-	float: right;
-	background-color: #DA6821;
-	}
-	
-#toTop:hover {
-	color: #fff;
-	}
-	
-#toTop:before {
-	font-family: FontAwesome;
-	content: '\f062';
-}
-
-
 
 	
 
